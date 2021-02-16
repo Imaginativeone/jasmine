@@ -1,0 +1,9 @@
+- [ ] Jasmine JavaScript Testing - Second Edition
+  - [ ] 01 Getting Started with Jasmine
+  - [ ] 02 Your First Spec 
+  - [ ] 03 Testing Frontend Code
+  - [ ] 04 Asynchronous Testing AJAX
+  - [ ] 05 Jasmine Spies
+  - [ ] 06 Light Speed Unit Testing
+  - [ ] 07 Testing React Applications
+  - [ ] 08 Build Automation
