@@ -14,7 +14,17 @@
       ```javascript
       describe("Investment", function() {
       
-        it();
+        it("should be of a stock", function() {
+        
+          let stock = new Stock();
+          let investment = new Investment({
+          
+            stock: stock,
+            shares: 100
+          
+          });
+        
+        });
       
       });
       ```
