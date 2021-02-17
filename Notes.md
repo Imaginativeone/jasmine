@@ -1,6 +1,9 @@
 - [ ] Jasmine JavaScript Testing - Second Edition
   - [ ] 01 Getting Started with Jasmine
-  - [ ] 02 Your First Spec 
+  - [ ] 02 Your First Spec
+    - [ ] The Investment Tracker Application
+      - To get started, we need an example scenario: consider that you are developing an application to track investments in the stock market.
+    - [ ] Jasmine basics and thinking in BDD
   - [ ] 03 Testing Frontend Code
   - [ ] 04 Asynchronous Testing AJAX
   - [ ] 05 Jasmine Spies
