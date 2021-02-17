@@ -13,19 +13,14 @@
       "should have the invested shares quantity:
       ```javascript
       describe("Investment", function() {
-      
         it("should be of a stock", function() {
-        
           let stock = new Stock();
           let investment = new Investment({
-          
             stock: stock,
             shares: 100
-          
           });
-        
         });
-      
+        expect(investment.stock).toBe(stock);
       });
       ```
       - 
