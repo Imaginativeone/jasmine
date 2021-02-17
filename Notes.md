@@ -7,6 +7,18 @@
     - [ ] Setup and teardown
     - [ ] Nested describes
       - [ ] Setup and teardown
+      - There are still three more acceptance criteria to be implemented. The next in the list is:
+      "Given an investment, it should have the invested shares quantity."
+      - Writing it should be as simple as the previous spec was. In the spec/InvestmentSpec.js file, you can translate this criterion into a new spec, called 
+      "should have the invested shares quantity:
+      ```javascript
+      describe("Investment", function() {
+      
+        it();
+      
+      });
+      ```
+      - 
       - [ ] Coding a spec with shared behavior
       - [ ] Understanding matchers
         - [ ] Custom matchers
