@@ -4,6 +4,16 @@
     - [ ] The Investment Tracker Application
       - To get started, we need an example scenario: consider that you are developing an application to track investments in the stock market.
     - [ ] Jasmine basics and thinking in BDD
+    - [ ] Setup and teardown
+    - [ ] Nested describes
+      - [ ] Setup and teardown
+      - [ ] Coding a spec with shared behavior
+      - [ ] Understanding matchers
+        - [ ] Custom matchers
+        - [ ] Built-in matchers
+          - [ ] The toEqual built-in matcher
+          - [ ] The toBe built-in matcher
+    - [ ] Summary
   - [ ] 03 Testing Frontend Code
   - [ ] 04 Asynchronous Testing AJAX
   - [ ] 05 Jasmine Spies
